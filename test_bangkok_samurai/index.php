@@ -39,14 +39,6 @@ echo "<br>";
 echo "<br>";
 echo "<br>";
 
-$scroe = 9;
-$age = 10;
-echo "your scroe is :" . $scroe > 10 ? ($age > 10 ? "Average" : "Exceptional") : ($age > 10 ? "Horrible" : "Average");
-
-echo "<br>";
-echo "<br>";
-echo "<br>";
-
 $mark = array(
   "mo" => array(
     "physics" => 35,
