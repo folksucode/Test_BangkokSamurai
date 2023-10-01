@@ -40,12 +40,12 @@ echo "<br>";
 echo "<br>";
 
 $mark = array(
-  "mo" => array(
+  "mohammad" => array(
     "physics" => 35,
     "maths" => 30,
     "chemistry" => 39
   ),
-  "qa" => array(
+  "qadir" => array(
     "physics" => 30,
     "maths" => 32,
     "chemistry" => 29
