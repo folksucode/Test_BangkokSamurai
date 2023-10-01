@@ -56,7 +56,7 @@ $mark = array(
     "chemistry" => 39
   ),
 );
-echo $mark["mo"]["physics"];
+echo $mark["mohammad"]["physics"];
 echo "<br>";
 foreach ($mark as $student => $scores) {
   foreach ($scores as $subject => $score) {
